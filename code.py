@@ -1,3 +1,9 @@
+"""
+Created by: Michael Bruneau
+Created on: Feb 2025
+This module is a Raspberrypy Pico program that causes a light to blink
+"""
+
 # This program uses python
 
 import board
